@@ -1,0 +1,22 @@
+#magicPics {
+   height: 300px;
+   width: 300px;
+   background-image: url("../img/magic8ball_empty.png");
+   background-size: contain;
+   margin-left: 41%;
+}
+.positioning{
+  text-align: center;
+  margin-top: 40px;
+}
+
+#magicButton{
+  background-color: #A194B3;
+  border-radius: 10px;
+  border-color: #5D487C;
+  color: white;
+}
+#magicButton:hover{
+  background-color: #6A5A80;
+  color: inherit;
+}
